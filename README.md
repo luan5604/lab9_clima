@@ -1,16 +1,7 @@
-# lab9_clima
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ☁️ Lab 9: Clima  
+**Mục tiêu:** Kết nối ứng dụng Flutter với dữ liệu thời tiết trực tuyến từ API.  
+**Nội dung:**  
+- Xây dựng ứng dụng thời tiết (Weather App).  
+- Gửi HTTP request tới OpenWeatherMap API để lấy dữ liệu thời tiết theo vị trí.  
+- Hiển thị thông tin thời tiết, biểu tượng và cập nhật theo vị trí thiết bị.  
+- Sử dụng `http`, `geolocator`, `async/await` để xử lý bất đồng bộ.
